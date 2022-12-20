@@ -1,2 +1,4 @@
+pwd
+ls
 echo "welcome"
 echo "hello world"
