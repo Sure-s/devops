@@ -1,0 +1,21 @@
+ls - lists all fils and folder & directory 
+ls -a - lists all files including hidden fils 
+ls lh -formatted list including more data 
+ls -t -lists sorted data
+pwd - present woriking directory & return path to working directory 
+cd - changes diretctory 
+cd .. -gose to perent directory 
+cd / - goes to root directory 
+cd - goes to home directory 
+touch =file name create en empty file 
+cp =file name = copy files 
+cp -r copy of files contained in cirectorys
+rm = file -deletes a file
+rm -r - deletes a directory and it's files 
+mv =file1 = file2 moves or renames a file
+mkdie - create a directory 
+locate - search file
+man -shows command manual 
+top - shows process activity
+
+
