@@ -1,0 +1,801 @@
+1  clear
+    2  git -version
+    3  git --version
+    4  java --version
+    5  sudo apt install java
+    6  sudo apt install tree
+    7  clear
+    8  exit
+    9  ls
+   10  exit
+   11  cleat
+   12  clear
+   13  ls
+   14  ls -a
+   15  sudo install tree
+   16  sudo apt install tree
+   17  snap install tree
+   18  sudo snap install tree
+   19  sudo apt install java
+   20  java --version
+   21  sudo apt install openjdk-11-jre-headless
+   22  java --version
+   23  sudo apt install apache
+   24  apache --version
+   25  sudo apt install apache2
+   26  ststemctl status apache2
+   27  systemctl status apache2
+   28  sudo apt install maven
+   29  mvn --version
+   30  sudo apt install maven
+   31  sudo yum intall maven
+   32  sudo apt install mavenapache 2
+   33  sudo apt intall maven
+   34  sudo apt install maven
+   35  clear
+   36  sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz
+   37  mvn --version
+   38  sudo apt install maven
+   39  clear
+   40  sudo apt intall maven
+   41  sudo apt install maven
+   42  wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip
+   43  ls
+   44  rm -r apache-maven-3.8.6-bin.tar.gz
+   45  ls
+   46  rm -r apache-maven-3.8.6-bin.
+   47  ls
+   48  rm -r apache-maven-3.8.6-bin.zip
+   49  ls
+   50  ls -a
+   51  wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip
+   52  ls
+   53  unzip apache-maven-3.8.6-bin.zip
+   54  sudo apt install unzip
+   55  unzip apache-maven-3.8.6-bin.zip
+   56  ls
+   57  cd apache-maven-3.8.6/
+   58  pwd
+   59  vi ~/.bash_profile
+   60  ls -a
+   61  mvn --version
+   62  sudo apt install maven
+   63  cd..
+   64  cd ..
+   65  sudo apt install maven
+   66  ls
+   67  cd apache-maven-3.8.6/
+   68  cd ..
+   69  bash --version
+   70  cd apache-maven-3.8.6/
+   71  vi ~/.bin_profile
+   72  mvn -version
+   73  sourec  ~/.bin_profile
+   74  sourec ~/.bin_profile
+   75  source ~/.bin_profile
+   76  vi ~/.bin_profile
+   77  source ~/.bin_profile
+   78  mvn -version
+   79  systemctl status maven
+   80  systemctl ststus mvn
+   81  cd ..
+   82  ls
+   83  ls -a
+   84  clear
+   85  git clone https://github.com/jabedhasan21/java-hello-world-with-maven.git
+   86  ls -a
+   87  mvn package
+   88  mvn --version
+   89  java --version
+   90  mvn --version
+   91  mvn package
+   92  ls
+   93  cd apache-maven-3.8.6/
+   94  mvn --version
+   95  pwd
+   96  vi ~/.bash_profile
+   97  mvn --version
+   98  source ~/.bash_profile
+   99  mvn -version
+  100  ls
+  101  mvn --version
+  102  git clone https://github.com/jabedhasan21/java-hello-world-with-maven.git
+  103  ls -a
+  104  cd java-hello-world-with-maven/
+  105  ls -a
+  106  mvn package
+  107  ls -a
+  108  cd target
+  109  ls -a
+  110  cp jb-hello-world-maven-0.2.0.jar /var/www/html
+  111  sudo cp jb-hello-world-maven-0.2.0.jar /var/www/html
+  112  ls
+  113  cd /var/www
+  114  ls -a
+  115  systemctl status apache2
+  116  systemctl status apache2
+  117  systemctl stop apache2
+  118  sudo systemctl stop apache2
+  119  systemctl status apache2
+  120  systemctl start apache2
+  121  sudo systemctl start apache2
+  122  systemctl status apache2
+  123  ls -a
+  124  cd java-hello-world-with-maven/
+  125  ls -a
+  126  mvn package
+  127  ls -a
+  128  cd target
+  129  ls
+  130  cp jb-hello-world-maven-0.2.0.jar /var/www/html
+  131  sudo cp jb-hello-world-maven-0.2.0.jar /var/www/html
+  132  cd ~
+  133  mvn --version
+  134  mvn --version
+  135  curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo tee   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+  136  echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]   https://pkg.jenkins.io/debian-stable binary/ | sudo tee   /etc/apt/sources.list.d/jenkins.list > /dev/null
+  137  sudo apt-get update
+  138  sudo apt-get install jenkins
+  139  systemctl status jenkins
+  140  jenkins --version
+  141  cat /var/lib/jenkins/secrets/initialAdminPassword
+  142  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  143  clear
+  144  mvn --version
+  145  systemctl status jenkins
+  146  ls -a
+  147  cd java-hello-world-with-maven/
+  148  ls -a
+  149  \cd target/
+  150  ls
+  151  cd ~
+  152  systemctl stop jenkins
+  153  sudo systemctl stop jenkins
+  154  systemctl status jenkins
+  155  clear
+  156  systemctl start jenkins
+  157  sudo systemctl start jenkins
+  158  systemctl status jenkins\
+  159  clear
+  160  systemctl stop jenkins
+  161  sudo systemctl stop jenkins
+  162  sudo systemctl status jenkins
+  163  systemctl status apache2
+  164  sudo syustemctl start jrnkins
+  165  sudo syustemctl start jenkins
+  166  sudo systemctl start jenkins
+  167  sudo systemctl status jenkins
+  168  clear
+  169  ls
+  170  ls -a
+  171  l
+  172  dir
+  173  who
+  174  id
+  175  ef
+  176  df
+  177  clear
+  178  ls
+  179  cd c-project/
+  180  lsd
+  181  ls
+  182  cd ..
+  183  sudo yum install gcc make
+  184  sudo apt install gcc make
+  185  build ABC,exeusing mskefile
+  186  sudo apt install build
+  187  build ABC,exeusing mskefile
+  188  tree
+  189  clear
+  190  ls
+  191  cd c-project/
+  192  ls
+  193  cat big3.
+  194  cat big3.c
+  195  make
+  196  cd ..
+  197  make
+  198  makefile
+  199  exit
+  200  clear
+  201  ls
+  202  pwd
+  203  du
+  204  df
+  205  su
+  206  nslookup
+  207  clear
+  208  man
+  209  man amn
+  210  locate
+  211  amn
+  212  man
+  213  eedit
+  214  exit
+  215  clear
+  216  shell
+  217  sudo install shell
+  218  username
+  219  corntab -e
+  220  sudo apt install shell
+  221  sudo apt install corntab
+  222  tree
+  223  clear
+  224  exit
+  225  clear
+  226  locate
+  227  sudo apt install mlocate
+  228  locate
+  229  clare
+  230  clear
+  231  more
+  232  more --
+  233  ps
+  234  top
+  235  clear
+  236  claer
+  237  clear
+  238  ls
+  239  cat cron.txt
+  240  exit
+  241  crontab -e
+  242  cat crontab.txt
+  243  tail -f cron.txt
+  244  cat cron.txt
+  245  ls
+  246  cat cron.txt
+  247  vi cron.txt
+  248  cat cron.txt
+  249  crontab -e
+  250  cat cron.txt
+  251  clear
+  252  ls
+  253  crontab -e
+  254  cat cron.txt
+  255  crontab -e
+  256  clear
+  257  clear
+  258  ip
+  259  id
+  260  sodur
+  261  host
+  262  host --help
+  263  hostname
+  264  log
+  265  ls -la
+  266  cd .
+  267  ls
+  268  log/log
+  269  var/log
+  270  clear
+  271  crontab -e
+  272  clear
+  273  crontab -l
+  274  crontab -e
+  275  touch cron.txt
+  276  ls
+  277  cat cron.txt
+  278  clear
+  279  ls
+  280  cat cron.txt
+  281  vi cron.txt
+  282  sudo vi cron.txt
+  283  cat cron txt
+  284  cat cron.txt
+  285  vi cron.txt
+  286  corn.swp
+  287  vi cron.txt
+  288  rm cron.txt
+  289  touch cron.txt
+  290  ls
+  291  vi cron.txt
+  292  rm cron.txt
+  293  ls
+  294  clear
+  295  ls
+  296  touch file.txt
+  297  vi file.txt
+  298  cat file.txt
+  299  touch cron.txt
+  300  ls
+  301  sudo vi corn.txt
+  302  rm file.txt
+  303  ls
+  304  clear
+  305  ls
+  306  cat cron.txt
+  307  rm cron.txt
+  308  ls
+  309  cat corn.txt
+  310  clear
+  311  ls
+  312  cat corn.txt
+  313  rm corn.txt
+  314  ls
+  315  touch cron.txt
+  316  vi cron.txt
+  317  sudo vi cron.txt
+  318  vim -r cron.txt
+  319  cat cron.txt
+  320  clear
+  321  ls
+  322  cat cron.txt
+  323  vi cron.txt
+  324  vim -r cron.txt
+  325  cat cron.txt
+  326  clear
+  327  ls
+  328  cat cron.txt
+  329  crontab -e
+  330  cat suresh.txt
+  331  ls
+  332  crontab -e
+  333  ls
+  334  cat suresh.txt
+  335  clear
+  336  ls
+  337  cat suresh.txt
+  338  tail -f suresh.txt
+  339  ls
+  340  cat suresh.txt
+  341  tail
+  342  tail -1
+  343  clear
+  344  ls
+  345  cat cron.txt
+  346  tail -f cron.txt
+  347  head -5 cronoutput
+  348  head -5 cron.txt
+  349  rm suresh.txt
+  350  ls
+  351  crontab -e
+  352  ls
+  353  cat suresh.txt
+  354  clear
+  355  ls
+  356  cat suresh.txt
+  357  ls -lrt
+  358  chmod 777 suresh.txt
+  359  cat suresh.txt
+  360  big
+  361  bg
+  362  head -u cron-output.suresh.txt
+  363  head -4 cornoutput.suresh.txt
+  364  head -4 cornuotput
+  365  head -4 corn -uotput
+  366  head -10 cornoutput
+  367  head -10 corn-output
+  368  head -10 cronoutput suresh.txt | tail -3
+  369  head -15 cronoutput
+  370  sudo apt install head
+  371  sudo apt-get install head
+  372  head -15 cronoutput
+  373  head -15 cronoutput suresh.txt
+  374  clear
+  375  head suresh.txt
+  376  cat suresh.txt
+  377  clar
+  378  clear
+  379  /etc/resolv.conf
+  380  sudo /etc/resolv.conf
+  381  sudo/etc/resolv.conf
+  382  cat /etc/resolv.conf
+  383  nameserver
+  384  grep "nameserver" /etc/resolv.conf
+  385  dig
+  386  nslookup
+  387  looloeqfknrjv
+  388  exit
+  389  clear
+  390  claer
+  391  clear
+  392  ls
+  393  ls -l
+  394  ls -lrt
+  395  cat cron.txt
+  396  history
+  397  history -d 393
+  398  history
+  399  netstat
+  400  cat .txt
+  401  pwd
+  402  ls
+  403  ls -al
+  404  cd..
+  405  cd ..
+  406  ls
+  407  ls -a
+  408  cd ubuntu/
+  409  la
+  410  gi
+  411  git
+  412  history
+  413  ls
+  414  touch hello.txt
+  415  ls
+  416  vi hello.txt
+  417  ls
+  418  cat cron.txt
+  419  vi cron.txt
+  420  sudo vi cron.txt
+  421  cron.txt.swp
+  422  crontab -e
+  423  head -20 suresh.txt
+  424  cat suresh.txt
+  425  clear
+  426  cat hell.txt
+  427  ls
+  428  cat hello.txt
+  429  vi hello.txt
+  430  vi cron.txt
+  431  ".cron.txt.swp"
+  432  .cron.txt.swp
+  433  history
+  434  cron.swp
+  435  ls
+  436  ls -ltr
+  437  chmod 777 hello.txt
+  438  ls -ltr
+  439  ls
+  440  ld
+  441  ls
+  442  rm hello.txt
+  443  ls
+  444  clear
+  445  vi deletefile.sh
+  446  ls
+  447  ls
+  448  vi hello.txt
+  449  ls
+  450  touch ss (1 to 10)
+  451  ls
+  452  vi hello.txt
+  453  ls
+  454  touch file {1..10}
+  455  ls
+  456  rm file {1..10}
+  457  ls
+  458  vi hello.txt
+  459  ls
+  460  cat file.txt
+  461  cat file
+  462  cat file1
+  463  \
+  464  ~
+  465  1
+  466  ls
+  467  ls -ll
+  468  rm file1
+  469  ls
+  470  vi hello.txt
+  471  ls
+  472  vi hello.txt
+  473  ls
+  474  sh hello.txt
+  475  ls
+  476  vi hello.txt
+  477  sh hello.txt
+  478  ls
+  479  ls -lrt
+  480  rm 1..5
+  481  ls
+  482  vi hello.txt
+  483  sh hello.txt
+  484  ls
+  485  rm `1*2`
+  486  ls -l
+  487  rm 1*2
+  488  ls
+  489  vi hello.txt
+  490  ls
+  491  sh hello.txt
+  492  ls
+  493  vi hello.txt
+  494  sh hello.txt
+  495  ls
+  496  ls -l
+  497  sh hello.txt
+  498  ls
+  499  vi hello.txt
+  500  sh hello.txt
+  501  ls
+  502  rm trn
+  503  ls
+  504  ll
+  505  exit
+  506  cat > test.txt
+  507  ls
+  508  cat test.txt
+  509  rm test.txt
+  510  ls
+  511  ls -ltr
+  512  vi cron.txt
+  513  vim -r cron.txt
+  514  crontab -e
+  515  rm cron.txt
+  516  ls
+  517  crontab -l
+  518  crontab -e
+  519  ls
+  520  ls -ltr
+  521  cat suresh.txt
+  522  clear
+  523  ls
+  524  cat hello.txt
+  525  ls -lrt
+  526  chmod 777 hello.txt
+  527  cat hello.txt
+  528  ls
+  529  crontab -e
+  530  ls
+  531  rm hello.txt
+  532  ls
+  533  cat file.txt
+  534  ls -lrt
+  535  chmod 777 file.txt
+  536  cat file.txt
+  537  ls
+  538  cat file.txt
+  539  crontab -r
+  540  ls
+  541  cat file.txt
+  542  crontab -e
+  543  cat suresh.txt
+  544  crontab -l
+  545  crontab -e
+  546  ls
+  547  cat file.txt
+  548  rm file.txt
+  549  ls
+  550  cat suresh.txt
+  551  ls
+  552  ls
+  553  crontab -r
+  554  crontab -l
+  555  crontab -e
+  556  cat suresh.txt
+  557  su -
+  558  echo 123
+  559  ls
+  560  clear
+  561  ll
+  562  clear
+  563  ls
+  564  touch hello.txt
+  565  ls
+  566  vi hello.txt
+  567  sh hello.txt
+  568  cat hello.txt
+  569  ls
+  570  ls -lrt
+  571  vi hello.txt
+  572  cat hello.txt
+  573  sh helllo.txt
+  574  sh hello.txt
+  575  vi hello.txt
+  576  sh hello,txt
+  577  sh hello.txt
+  578  vi hello.txt
+  579  sh hello.txt
+  580  vi hello.txt
+  581  sh hello.txt
+  582  ls
+  583  cat hello.txt
+  584  vi hello.txt
+  585  rm file1_output=
+  586  ls
+  587  crontab -e
+  588  ls
+  589  crontb -e
+  590  crontab-e
+  591  crontab -e
+  592  ls
+  593  crontab -output
+  594  crontab -i
+  595  ls
+  596  crontab -e
+  597  watch -n 10 touch trn
+  598  ls
+  599  cat trn
+  600  ls
+  601  watch -n 2 touch test
+  602  ls
+  603  cat test
+  604  rm test
+  605  rm trn
+  606  ls
+  607  clear
+  608  ls
+  609  vi file{1..20}
+  610  ls
+  611  cat file{1..20}
+  612  ls
+  613  rm file{1..20
+  614  rm file{1..20}
+  615  exit
+  616  clear
+  617  ls
+  618  ls -a
+  619  crontab -e
+  620  ls
+  621  ls
+  622  crontab -e
+  623  ls
+  624  cat test
+  625  chown suresh.txt
+  626  cat file
+  627  rm file
+  628  ls
+  629  ls -lrt
+  630  ls cat test
+  631  cat test
+  632  crontab -e
+  633  ls
+  634  cat test
+  635  ls
+  636  cat test1
+  637  ls lrt
+  638  ls -lrt
+  639  cat test
+  640  ls
+  641  cat test1
+  642  chmod 777 test1
+  643  ls
+  644  cat test1
+  645  cat test
+  646  cat test1
+  647  rm test
+  648  ls
+  649  cat test1
+  650  rm rest1
+  651  rm test1
+  652  ls
+  653  crontab -e
+  654  ls
+  655  cat test1
+  656  re test1
+  657  rm test1
+  658  ls
+  659  top
+  660  du -kh
+  661  uname
+  662  host name
+  663  free
+  664  rtee
+  665  tree
+  666  ls
+  667  crontab -e
+  668  ls
+  669  ls
+  670  cat file1
+  671  history
+  672  ls
+  673  cat file1
+  674  ls -lrt
+  675  chmod 777 file1
+  676  ls
+  677  cat file1
+  678  crontab -e
+  679  rm file1
+  680  ls
+  681  crontab -e
+  682  ls
+  683  crontab -e
+  684  ls
+  685  cat file
+  686  crontab -e
+  687  cat file
+  688  crontab -e
+  689  ls
+  690  cat suresh.txt
+  691  ls
+  692  cat suresh.txt
+  693  crontab -e
+  694  ls
+  695  cat file
+  696  cat file{1..20}
+  697  rm file
+  698  ls
+  699  cat ls
+  700  ls
+  701  cat hello.txt
+  702  ls
+  703  cat sureh.txt
+  704  cat suresh.txt
+  705  ls
+  706  crontab -e
+  707  ls
+  708  cat test
+  709  rm test
+  710  ls
+  711  cat hello.txt
+  712  ls
+  713  cat file{1..20}
+  714  rm file{1..20}
+  715  ls
+  716  cat hello.txt
+  717  ls
+  718  clear
+  719  ls
+  720  rm file
+  721  ls
+  722  ls -l
+  723  ls
+  724  rm -r file{1..20}
+  725  ls
+  726  cat file
+  727  cat file{
+  728  cat file{1..
+  729  crontab -e
+  730  ls
+  731  rm file{1..20}
+  732  crintab -r
+  733  crontab -r
+  734  ls
+  735  crontab -e
+  736  ls
+  737  crontab -e
+  738  ls
+  739  cd ..
+  740  ls
+  741  ls -a
+  742  cd ubuntu/
+  743  ls
+  744  cronntab -e
+  745  crontab -e
+  746  uname
+  747  who
+  748  whoami
+  749  path
+  750  host
+  751  crontab -e
+  752  ls
+  753  pwd
+  754  ls
+  755  clear
+  756  ls
+  757  cat file{1..50}
+  758  claer
+  759  clear
+  760  ls
+  761  cat hello.txt
+  762  touch test.txt
+  763  ls
+  764  vi test.txt
+  765  sh test.txt
+  766  sh test.txt 5 5
+  767  vi test.txt
+  768  sh test.txt
+  769  sh test.txt 5
+  770  sh test.txt 5*5
+  771  vi test.txt
+  772  sh test.txt
+  773  sh test.txt 10 10
+  774  vi test.txt
+  775  sh test.txt 10 20
+  776  cat test.txyt
+  777  cat test.txt
+  778  vi test.txt
+  779  sh test.txt 10 20
+  780  cat test.txt
+  781  vi test.txt
+  782  shtest.txt
+  783  sh test.txt
+  784  vi test.txt
+  785  sh test.txt
+  786  sh test.txt 10 19
+  787  vi test.txt
+  788  toush test.txt
+  789  touch test.txt
+  790  ls
+  791  vi test.txt
+  792  rm test.txt
+  793  ls
+  794  touch script1
+  795  ls
+  796  vi script1
+  797  vi script.sh
+  798  vi script1
+  799  clear
+  800  history
+ubuntu@ip-172-31-47-191:~$
